@@ -1,0 +1,42 @@
+- request yang disiapkan dari sisi front end akan disampaikan ke web API
+
+struktur awal
+- meta charset memberi tahu browser dengan karakter set apa halaman web ditampilkan.
+- 
+
+Pokok seorang Front End
+- Implementasi desain ui/ux
+- Memastikan data tersampaikan dengan baik dan benar
+- Memastikan proses bisnis yang ada sesuai dengan algoritma yang ada
+
+
+- javascript merupakan fungsi yang diimplemetasikan pada web
+- Mengirim order ke backend menggunakan javascript
+- HTML bukan bahasa pemrograman melainkan merupakan markup language karena terdapat serangkaian markup / tag yang berfungsi untuk memberi tahu browser bagaimana sebuah konten akan ditampilkan.
+- w3c merupakan perusahaan yang penemu yang mengatur fungsi dari world wide web, Isi Html.
+- Tugas seorang front end memastikan program kita berjalan pada setiap browser yang ada.
+- Evolutionoftheweb.com (timeline waktu versi HTML)
+- Komponen dalam HTML disebut Tag
+
+- bisa menulis diluar aturan h1, h2, dsb namun penggunaan di luar itu karena akan berpengaruh ketika fase responsif.
+- judul utama h1, sedangkan lebih baik ukuran dibawahnya adalah h3 supaya mengantisipasi ada teks yang muncul dengan ukuran diatas h3
+- jangan rubah ukuran menggunakan px
+
+freelance
+- perbanya portofolio
+- perbanyak mencoba
+- mencari client dengan tepat
+- men
+
+diakhir chapter diajari memulai freelance international
+
+ul
+- isi konten ul dibungkus supaya terstruktur
+- live coding
+- ul untuk pembungkus li
+- supaya dapat mengatur li secara sepaket
+- modifikasi lebih mudah
+
+
+bertanya tentang sistem penilaian, kehadiran, nilai tugas
+
